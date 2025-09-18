@@ -1,6 +1,6 @@
 ## Live demo:
 
-https://embl-ebi-jr1635-task-2.github.io
+https://akiratoma.github.io/embl-ebi-jr1635-task-2.github.io/
 
 ## Instructions to run locally:
 
